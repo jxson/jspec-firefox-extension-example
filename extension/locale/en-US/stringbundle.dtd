@@ -1,0 +1,7 @@
+<!-- See: https://developer.mozilla.org/en/Localizing_an_extension -->
+<!ENTITY jspec-example.menu.title "jspec-example">
+<!ENTITY jspec-example.menu.item "Say Hi">
+
+<!ENTITY jspec-example.about "jspec-example">
+<!ENTITY jspec-example.about.close "close">
+

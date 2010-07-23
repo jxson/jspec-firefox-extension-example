@@ -1,0 +1,4 @@
+{
+  // This can be either a FF 3.6 bin or a xulrunner-bin
+  "xulrunner_bin": "/Applications/Firefox.app/Contents/MacOS/firefox-bin"
+}

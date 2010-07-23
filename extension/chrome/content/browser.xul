@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css"
+    href="chrome://jspec-example/skin/stylesheets/stylesheet.css" ?>
+<!DOCTYPE overlay SYSTEM "chrome://jspec-example/locale/stringbundle.dtd">
+<overlay xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script type="application/x-javascript"
+      src="chrome://jspec-example/content/content.js" />
+  <menubar id="main-menubar">
+    <menu label="&jspec-example.menu.title;" insertbefore="tools-menu">
+      <menupopup>
+        <menuitem label="&jspec-example.menu.item;" oncommand="alert('Hello World!');"/>
+      </menupopup>
+    </menu>
+  </menubar>
+</overlay>

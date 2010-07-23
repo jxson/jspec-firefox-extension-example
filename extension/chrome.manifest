@@ -1,0 +1,6 @@
+content jspec-example chrome/content/
+content jspec-example chrome/content/ contentaccessible=yes
+locale  jspec-example en-US locale/en-US/
+skin    jspec-example classic/1.0 chrome/skin/
+resource jspec-example chrome/modules/
+overlay chrome://browser/content/browser.xul chrome://jspec-example/content/browser.xul
